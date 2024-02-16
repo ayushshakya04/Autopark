@@ -1,0 +1,43 @@
+<suite name="Suite" verbose="1" >
+  <!-- <test name="AWS Test" >
+    <classes>
+       <class name="Amazoncreateschedule" />
+    </classes>
+  </test>
+ 
+  <test name="Azure Test">
+    <classes>
+      <class name="Azurecreateschedule" />
+    </classes>
+  </test>
+</suite> -->
+
+<test name="Schedule Test">
+    <classes>
+    <!-- <class name="Home"/> -->
+      <class name="EditSchedule" />
+      <class name="RenameSchedule" />
+    </classes>
+  </test>
+</suite>
+
+  
+  <!-- <test name="Azure Test">
+    <classes>
+      <class name="Azurecreateshcedule" />
+    </classes>
+  </test>
+</suite> -->
+<!-- 
+<test name="Search Schedule Test">
+    <classes>
+    <class name="SearchSchedule" />
+    </classes>
+  </test>
+</suite> -->
+
+
+
+
+
+
